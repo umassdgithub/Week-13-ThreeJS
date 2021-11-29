@@ -5,6 +5,21 @@
  <p>
  There are also various resources about threeJS that can help a lot with the development of the projects using threeJS. 
  </p>
+<h4>Examples</h4>
+<ol>
+ 
+ 
+ <li>Adding elements to webGL
+ </li>
+ 
+ <li>RGB Color Cubes</li>
+ <li> Simple 3D Scatterplot </li>
+ <li>3D Scatterplot With Lighting and Shaded Material</li>
+ 
+ </ol>
+
+
+
 
 <h4>Resources</h4>
 <ul>
