@@ -1,5 +1,4 @@
-# Week 14
- ## Three js
+# 3D visualization with Three js
  
  <p>The examples provided in this repository along with the video in the Media Gallery in myCourses provide an step by step visualization design using threeJS library</p>
  <p>
